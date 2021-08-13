@@ -12,7 +12,7 @@ based off of the run_JansenNadeau_2018.py example in the PyMOC repository.
 
 We prescribed a constant surface buoyancy increase of 0.002, 
 0.004, and 0.006 to the boundary conditions. These npz.files are located in the 
-surfaceb-inc-simulation folder. These warming simulations are loosely based off of 
+surfaceb-inc-simulation folder. These warming simulations are based off of 
 2k, 4k, and 6k warming simulations in an MITgcm ocean-ice model. More of the  
 GCM model can be found here: https://mitgcm.readthedocs.io. The output of these 
 simulations can be plotted in the ReadInPlot_NadeauJansen.ipynb, 
